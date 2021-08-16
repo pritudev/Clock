@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+* {
+  background-color: rgb(12, 12, 12);
+  color: white;
+}
+
+.timebox {
+  text-align: center;
+  justify-content: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+#time {
+  font-size: 200px;
+  font-family: "Poppins", sans-serif;
+}
+
+.hours {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  max-height: 100vh;
+}
